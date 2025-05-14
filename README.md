@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Full-Stack Web Development
-- 🌱 I’m currently learning graphical programming
+- 🌱 I’m currently learning graphical programming, microservices and AWS
 - 📫 How to reach me: shawnli6237@gmail.com
 - 😄 Pronouns: He/his
 - ☕️ <a href="https://shawn-portfolio-elek.vercel.app/" style="text-decoration: underline;">Check my portfolio</a>
